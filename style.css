@@ -20,7 +20,7 @@
     background: #FFF;
     border: solid 3px #00849b;
     border-radius: 10px;
-    width: 50px;
+    width: 100px;
     height: 20px;
     transition: 0.4s;
 }
@@ -33,7 +33,7 @@
     background: #00849b;
     border: solid 3px #00849b;
     border-radius: 10px;
-    width: 50px;
+    width: 130px;
     height: 20px;
     transition: 0.4s;
 }
